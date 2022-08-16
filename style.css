@@ -31,6 +31,7 @@ main {
 .card {
 	max-width: 350px;
 	text-align: center;
+	box-shadow: 0 10px 20px hsl(212, 45%, 89%);
 }
 
 h1 {
