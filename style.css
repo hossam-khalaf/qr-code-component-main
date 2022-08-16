@@ -36,6 +36,7 @@ main {
 h1 {
 	font-size: 24px;
 	margin: 20px 0;
+	color: hsl(218, 44%, 22%);
 }
 p {
 	font-size: 15px;
